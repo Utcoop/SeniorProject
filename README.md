@@ -21,15 +21,22 @@ For Example:
 12:16:53.547 -> 46.88|22.91 
 
 Only the values of temperature and humidity are sent by the HC-06
+
+
+# Installation and Opperation
+
 The next step is to get an .apk to your Android smartphone device. This can be done in multiple ways. 
 
-#AIA
 Download the .aia to your computer.
+
 Import it to the MIT App Inventor2 to by googling "MIT AI2"  and navigating to your very own projects folder and then import the project.
+
 Open it to see the behind the scenes and locate the build button at the top of the browser. Select "Android App (.apk)
+
 Scan the QR code that will eventually appear to download it straight to your phone, or download it to your computer and transfer it over. 
 
-#APK
+or
+
 Download the .apk file straight out of this github and transfer it to your phone.
 
 Once the APK is on your phone you need to install it. To do this you need to allow unkown apps to be installed. Your phone will most likely think it is unsafe, but I assure you it is.
