@@ -33,7 +33,7 @@ Import it to the MIT App Inventor2 to by googling "MIT AI2"  and navigating to y
 
 Open it to see the behind the scenes and locate the build button at the top of the browser. Select "Android App (.apk)"
 
-Scan the QR code that will eventually appear to download it straight to your phone, or download it to your computer and transfer it over. 
+Scan the QR code that will eventually appear with your android smartphone to download it straight to your phone, or download it to your computer and transfer it over. 
 
 or
 
