@@ -39,8 +39,10 @@ or
 
 Download the .apk file straight out of this github and transfer it to your phone.
 
+Once the APK is on your phone you need to install it. To do this you need to allow unkown apps to be installed. Your phone will most likely think it is unsafe, but I assure you it is. To do this, simply navigate to where the .apk was downloaded to on your phone (most likely your downloads folder) and select it and click install. 
+
+
 # Opperation
-Once the APK is on your phone you need to install it. To do this you need to allow unkown apps to be installed. Your phone will most likely think it is unsafe, but I assure you it is.
 
 Once the app is installed pair your HC-06 to your phone throught blueooth settings. If a password is required, whatever depends on who you purchased it from, but the default is "1234". If that doesn't work try "0000".
 
