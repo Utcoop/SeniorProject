@@ -6,12 +6,13 @@ To operate this app you must have
 
 Once wired you need to upload MIT_SHT25 to the arduino. Ensure that the HC-06 is unplugged when you upload the code as uploading the code sometimes causes errors in the HC-06 module. Open the serial monitor to ensure that data is being taken and is being output in the following format:
 
-# Humidity|Temperature
+time -> Humidity|Temperature
 For Example:
-12:16:50.961 -> 46.98|22.86
-12:16:52.267 -> 46.95|22.88
-12:16:53.547 -> 46.88|22.91
+12:16:50.961 -> 46.98|22.86 \n
+12:16:52.267 -> 46.95|22.88 \n
+12:16:53.547 -> 46.88|22.91 \n
 
+Only the values of temperature and humidity are sent by the HC-06
 The next step is to get an .apk to your Android smartphone device. This can be done in multiple ways. 
 
 #AIA
