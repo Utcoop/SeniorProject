@@ -33,7 +33,7 @@ Open it to see the behind the scenes and locate the build button at the top of t
 
 Scan the QR code that will eventually appear with your android smartphone to download it straight to your phone, or download it to your computer and transfer it over. 
 
-or
+### or
 
 Download the .apk file straight out of this github and transfer it to your phone.
 
